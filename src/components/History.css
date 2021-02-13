@@ -1,0 +1,164 @@
+h2{
+text-align: center;
+color: rgb(0, 0, 0);
+
+}
+
+.historytext{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    
+}
+
+.col-12,
+.col-6,
+
+.col-md-6 {
+padding: 1rem;
+
+text-align: center;
+}
+
+.col-md-8,
+.col-md-4 {
+padding: 1rem;
+
+border: 2px solid #fff;
+color: #fff;
+text-align: center;
+}
+ 
+.contents {
+    padding: 1rem;
+padding-top: 3rem;
+font-size: 1rem;
+color: rgb(28, 117, 55);
+text-align: left;
+}
+
+#listone:hover {
+    color: #FF0000;
+    background-color:  #006600;
+}
+
+#listtwo:hover {
+    color: #FF0000;
+    background-color:  #006600;
+}
+
+#listthree:hover {
+    color: #FF0000;
+    background-color:  #006600;
+}
+
+#listfour:hover {
+    color: #FF0000;
+    background-color:  #006600;
+}
+
+#listfive:hover {
+    color: #FF0000;
+    background-color:  #006600;
+}
+
+#vl {
+    border-left: 3px solid green;
+    height: 500px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+ 
+
+
+  @media only screen and (max-width: 1024px) /*this works */ {
+    #vl {
+        border-left: 0px solid green;
+        height: 500px;
+        padding-right: 15px;
+        padding-left: 15px;
+     
+    }
+    
+    }
+
+    
+              /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+
+    #historybox {
+        margin-top: 30%;
+    }
+
+   
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    #title {
+        margin-top: 55%;
+    }
+
+    #avatar {
+        margin-top: 15%;
+        
+    }
+
+    #historybox {
+        margin-top: 10%;
+    }
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up)  THESE WORK*/
+@media only screen and (min-width: 768px) {
+    #avatar {
+        margin-top: 50%;
+        
+    }
+
+    #title {
+        margin-top: 15%;
+    }
+  
+    #historybox {
+        margin-top: 0%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    #title {
+        margin-top: 15%;
+    }
+
+    #avatar {
+        margin-top: 30%;
+        
+    }
+
+    #historybox {
+        margin-top: 0%;
+    }
+  
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  #title {
+      margin-top: 10%;
+  }
+
+  #avatar {
+    margin-top: 20%;
+    
+}
+
+#historybox {
+    margin-top: 0%;
+}
+
+}

@@ -1,0 +1,110 @@
+.col-12,
+.col-6,
+.col-md-8,
+.col-md-6,
+.col-md-4 {
+padding: 1rem;
+
+text-align: center;
+}
+
+.heading {
+    padding-top: 5%;
+    color: rgb(29, 88, 29);
+    font-size: 40px;
+}
+
+.cards {
+   
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+    background: #fff;
+  }
+
+
+
+  @media only screen and (max-width: 1024px) /*this works */ {
+    .contentbox {
+      
+ margin-top: 0rem;
+     
+    }
+
+    #vu {
+      border-top: 3px solid green;
+      height: 500px;
+         padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+    }
+
+
+    @media only screen and (max-width: 1024px) /*this works */ {
+        #vl {
+            border-left: 0px solid green;
+            height: 500px;
+            padding-right: 15px;
+            padding-left: 15px;
+         
+        }
+
+         #avatar {
+          margin-bottom: 0%;
+          
+      }
+
+      #textspace {
+        margin-top: 140%;
+      }
+        
+        }
+
+  
+  }
+
+   /* Extra small devices (phones, 600px and down) */
+   @media only screen and (max-width: 600px) {
+    .heading {
+        padding-top: 20%;
+        color: rgb(29, 88, 29);
+        font-size: 30px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .heading {
+        padding-top: 20%;
+        color: rgb(29, 88, 29);
+        font-size: 40px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up)  THESE WORK*/
+@media only screen and (min-width: 768px) {
+    .heading {
+        padding-top: 20%;
+        color: rgb(29, 88, 29);
+        font-size: 40px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .heading {
+        padding-top:15%;
+        color: rgb(29, 88, 29);
+        font-size: 40px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .heading {
+        padding-top: 5%;
+        color: rgb(29, 88, 29);
+        font-size: 40px;
+    }
+}
+
+ 

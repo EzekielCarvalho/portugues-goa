@@ -1,0 +1,295 @@
+p {font-size: 20px;
+margin-left: 5%;}
+
+.text {
+  text-align: center;
+  color: white;
+}
+
+.cards {
+   
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+    background: rgb(255, 255, 255);
+  }
+
+  .imgsize {
+    padding-top: 5%;
+  }
+
+.imgone {
+  margin-bottom: 20%;
+}
+
+.imgtwo {
+  margin-bottom: 20%;
+}
+
+  
+  h1 {
+    text-align: center;
+    padding-bottom: 2%;
+  }
+
+  h2 {
+    text-align: center;
+    padding-bottom: 1%;
+  }
+
+  .news-heading {
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 10%;
+  }
+  
+  .cards__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .cards__wrapper {
+    position: relative;
+    margin: 50px 0 45px;
+
+  }
+  
+  .cards__items {
+    margin-bottom: 24px;
+  }
+  
+  .cards__item {
+    display: flex;
+    flex: 1;
+    margin: 0 1rem;
+    border-radius: 10px;
+  }
+  
+  .cards__item__link {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(10, 10, 10, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(5, 5, 5, 0.017));
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  
+  .cards__item__pic-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 67%;
+    overflow: hidden;
+  }
+  
+  .fade-img {
+    animation-name: fade-img;
+    animation-duration: 2s;
+  }
+  
+  .cards__item__pic-wrap::after {
+    content: attr(data-category);
+    position: absolute;
+    bottom: 0;
+    margin-left: 10px;
+    padding: 6px 8px;
+    max-width: calc((100%) - 60px);
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #1b660c;
+    box-sizing: border-box;
+  }
+  
+  .cards__item__img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    transition: all 0.2s linear;
+  }
+  
+  .cards__item__img:hover {
+    transform: scale(1.1);
+  }
+  
+  .cards__item__info {
+    padding: 20px 30px 30px;
+  }
+  
+  .cards__item__text {
+    color: #255738;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .center{
+    position:absolute;
+    width:780px;
+    height:650px;
+    left:50%;
+    top:50%;
+    margin-left:-390px;
+    margin-top:-325px;
+}
+
+
+
+
+  
+  @media only screen and (min-width: 1024px) {
+    .cards__items {
+      display: flex;
+    }
+  
+  }
+  
+  @media only screen and (max-width: 1024px) /*this works */ {
+    .cards__item {
+      margin-bottom: 5rem;
+     
+    }
+    p{
+      padding-top: 10%;
+    }
+   
+  
+
+    .mobileview cards__container img{
+    
+      width: 100%;
+      height: auto;
+      src:"https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/a2/0a/11.jpg"
+ 
+   
+  }}
+  @media only screen and (min-width: 1200px) {
+    .content__blog__container {
+      width: 84%;
+    }
+
+
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .cards__items {
+      display: flex;
+    }
+  
+  }
+
+
+  
+
+.tags {
+	text-align: center;
+	padding: 20px 0px;
+	background-color: rgb(43, 92, 226);
+}
+
+.tag {
+	outline: none;
+	border: none;
+	color: #eee;
+	margin: 0px 10px;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.active {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+}
+.containerphoto {
+    padding-top: 10%;
+	width: 80%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    position: relative;
+
+}
+
+.image-card {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+}
+
+.image {
+	width: 100%;
+}
+
+.cardsphoto {
+   
+    padding-top: 4rem;
+   
+    background: #fff;
+    margin-top:5%;
+  }
+
+@media only screen and (min-width: 1024px) /*this works */ {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+   
+        background: #fff;
+        margin-top:5%;
+      }
+    
+    }
+
+    @media only screen and (max-width: 768px) /*this works */ {
+        .cardsphoto {
+   
+            padding-top: 4rem;
+    
+            background: #fff;
+            margin-top:5%;
+          }
+        }
+
+        /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  
+}
+
+/* Medium devices (landscape tablets, 768px and up)  THESE WORK*/
+@media only screen and (min-width: 768px) {
+  .cards__items {
+    display: flex;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .cards__items {
+    display: flex;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .cards__items {
+    display: flex;
+  }
+}

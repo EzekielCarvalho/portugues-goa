@@ -1,0 +1,126 @@
+
+
+.tags {
+	text-align: center;
+	padding: 20px 0px;
+	background-color: rgb(21, 117, 37);
+}
+
+.tag {
+	outline: none;
+	border: none;
+	color: #eee;
+	margin: 0px 10px;
+	background-color: transparent;
+	cursor: pointer;
+}
+
+.active {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+}
+.containerphoto {
+    padding-top: 10%;
+	width: 80%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    position: relative;
+
+}
+
+.image-card {
+	padding: 5px;
+	margin: 5px;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+}
+
+.image {
+	width: 100%;
+}
+
+.cardsphoto {
+   
+    padding-top: 4rem;
+   
+    background: #fff;
+    margin-top:5%;
+  }
+
+@media only screen and (min-width: 1024px) /*this works */ {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+   
+        background: #fff;
+        margin-top:5%;
+      }
+    
+    }
+
+    @media only screen and (max-width: 768px) /*this works */ {
+        .cardsphoto {
+   
+            padding-top: 4rem;
+    
+            background: #fff;
+            margin-top:5%;
+          }
+        }
+
+        /* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+
+        background: #fff;
+        margin-top:5%;
+      }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+     
+        background: #fff;
+        margin-top:5%;
+      }
+}
+
+/* Medium devices (landscape tablets, 768px and up)  THESE WORK*/
+@media only screen and (min-width: 768px) {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+     
+        background: #fff;
+        margin-top:5%;
+      }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+
+        background: #fff;
+        margin-top:5%;
+      }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .cardsphoto {
+   
+        padding-top: 4rem;
+
+        background: #fff;
+        margin-top:5%;
+      }
+}
