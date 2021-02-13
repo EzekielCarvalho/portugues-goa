@@ -1,12 +1,10 @@
 android-chrome-192x192.png,1613221801979,1f65ba3990f30b162e76f4fa2a96ffa687de55bb897271518d691c397b60a9c1
 android-chrome-512x512.png,1613221802127,bffc6104b52cba4b575dfff74f93438577345d7709d925accc6e4953c4a8efca
 apple-touch-icon.png,1613221802152,63f9f9abb914a50adf441861ec31444971944c3e45f89b84f422244a59709062
-asset-manifest.json,1613225383131,f62b8eaf38a0efa23742abc8a9c7eb175d650612db39f234f8c6d849eb944574
 browserconfig.xml,1613221802185,6acd655db9d0c9069f30156d37fc38c1bdd1b976d19a26f481f527efcd7055f8
 favicon-16x16.png,1613221802239,b57bc711c860d9d445f6029dc48a911e1f3c8e91dab58e6fc7e5bd8ed10ae564
 favicon-32x32.png,1613221802263,5009fb0939cd8f8a405f54866b0a598d1234321cc8a7c5c08ed748bbc3e8b329
 favicon.ico,1613221805453,1686ed35ffe777759ed3e1a428fd7fa4de875b5396531bc6b351f1b36ae0f255
-index.html,1613225383120,b4f96f4a7afb1927cfdae6e6d65de2f0e7a6b2d748177f0e77c6c5fe7bf791ab
 logo192.png,499162500000,3ee59515172ee198f3be375979df15ac5345183e656720a381b8872b2a39dc8b
 logo512.png,499162500000,ee7e2f3fdb8209c4b6fd7bef6ba50d1b9dba30a25bb5c3126df057e1cb6f5331
 manifest.json,499162500000,aff3449bdc238776f5d6d967f19ec491b36aed5fb7f23ccff6500736fd58494a
@@ -378,42 +376,23 @@ images/photos/View of the Kavery river from Col. Bailey's dungeon..jpg,160939193
 images/photos/View of the promenade on the Eastern coast of the island in the city of stone and whitewash..jpg,1609049510971,f7de790add2e4530350414c0a903be9aa10ff0a8d01ab9d254b15dcf339fb96a
 images/photos/Walls were the prisoners were chained - Col Bailey's dungeon.jpg,1609391947644,3dc9a81ac88b5779b21d6da6f9de2032c57d34ffeb3c5fc16cd3a877c63ebc0e
 images/photos/writing on statue of Luis.jpg,1609048200825,03a0ddfef30ac1aff6127e7ccfdbe386785159fa5c1c45890748ee2e96ab1d3e
-static/css/2.73b7072a.chunk.css,1613225383113,4f46a560e3e6535b7f1d2a88726d4be870c54efd5011919d74b44fa02f272159
-static/css/2.73b7072a.chunk.css.map,1613225383119,2acba29ce3b5c6fd14d088d1c3e57c150646fd00efc89ff2f85baf6a43a5fd90
-static/css/main.ace1354a.chunk.css,1613225383088,63c9463285310fa2c238bceb0e1e26efaafe2a594254308714ed5e46fc815a46
-static/css/main.ace1354a.chunk.css.map,1613225383118,8f5c09cd0c304552dcd3148c6bcfc54107996ace6e210a89418c1ab9cd4c0bd5
-static/js/2.a130ac4b.chunk.js,1613225383113,331f4d4861de1ce4d254d0c2a63880358c6ac1db8505c6a2ef236ccba0c20b7d
-static/js/2.a130ac4b.chunk.js.LICENSE.txt,1613225383118,db5e990c63366acc28ee4d68a8b06cf6f262336190be423eb925127eea05a96c
-static/js/2.a130ac4b.chunk.js.map,1613225383133,76f79f7a5d75022331a339561160682e39932fade53d40f9bcd505c3837e3193
-static/js/main.c5b4e122.chunk.js,1613225383085,ac872373f26032af9d68d1c0573620fbd31887be474724b2035d3261e9507b93
-static/js/main.c5b4e122.chunk.js.map,1613225383119,5dc1c6d876595aeb59aa8bce366a86476ea52114d93bb4d972d90dc0673ca48f
-static/js/runtime-main.5eec8c1b.js,1613225383112,80e1ae7336108b39c1ac861ba60acd6475c557d069ca2039ba6993de34518778
-static/js/runtime-main.5eec8c1b.js.map,1613225383119,b7a3578c3d14381ff4571a48b2a89e3c971e2e5a95fafd9028550e470417526f
-static/media/arrow_left.2b063d13.svg,1613225383094,c06ec1a7030ba22dba6f9c435a0944ffab3f021c309a0cb5d64ddac2334a372c
-static/media/arrow_right.0897f985.svg,1613225383094,4ae23b65d972fea40fae9e9d4e035c313a8399c377c81f9105736b994ea935d9
-static/media/fa-brands-400.0fea2496.eot,1613225383081,392554bc6db05270bb85e548afdedd9c3aa52c240293e1f3048c3a93374ee993
-static/media/fa-brands-400.c967a94c.woff2,1613225383081,e6f25657b05e0e87e8c57c9378464f49668cda7f3a872cee6f28f91ed88ffd13
-static/media/fa-brands-400.dc2cbadd.woff,1613225383082,6b1c1b4c1874680df6941b6717ea6b5bfe52ecd391f8827eb1b124395c32792f
-static/media/fa-brands-400.e33e2cf6.svg,1613225383094,32f7ee446abd6f21af42d158e81bcae84f4f3c18a5e12bba606878663b9110ca
-static/media/fa-brands-400.ec82f282.ttf,1613225383080,7edccc5716a57c35ec03d12ea806dc8c102b095d64cba5c41bd46368f60f29a6
-static/media/fa-regular-400.06b9d19c.svg,1613225383081,cf6d1ee80e029edc9d4a9339d22f235298293413f3222380fbc4b145df131dd9
-static/media/fa-regular-400.08f9891a.eot,1613225383080,8a084defdc17b92d74c400c91e73bb08f24884e078c00a469ad2864e0aac353f
-static/media/fa-regular-400.1008b522.woff2,1613225383081,ccd0aca053735dd08559506ea3965ea707fad4706063497dbdf9891b86440841
-static/media/fa-regular-400.1069ea55.woff,1613225383081,e5ffe59334f86b0c6d8e2da33a3e0315eb0ed590548cff7b1385e76de26f0ce3
-static/media/fa-regular-400.1495f578.ttf,1613225383081,0fbb7cc0f72f7c6dec898f82ee2e8a01ff98bd03eaa56f5fd6af45ff387bb2dc
-static/media/fa-solid-900.10ecefc2.ttf,1613225383081,2a229c08d24904056d37a6cc574d8e4f7911e539c64f0340da4efca38a81e90f
-static/media/fa-solid-900.371dbce0.svg,1613225383094,7f6a2a1ba45b6cb62714c3746377f0fe0a8e30c876bec9e019dfdd0ca4f178d8
-static/media/fa-solid-900.3a24a60e.eot,1613225383081,186cc82aced67a0b863363d699000f032262aea91ee384ca9bc67a7ffd7ee5ce
-static/media/fa-solid-900.3ceb50e7.woff2,1613225383084,c3b69f059bddb662e9a2796e665bea15110893d2e692d6e8831cf87c900593dd
-static/media/fa-solid-900.46fdbd2d.woff,1613225383081,97ae6546d753cc184adb96c6a21315f79e688414728ad58e85ccef8fd345536e
-static/media/img-2.bb238fc1.jpg,1613225383081,efb7281a47016d2840bf62ab6d40ab9fa6ffb20764731c2f675f536f38efa5d7
-static/media/img-5.7fadbe1b.jpg,1613225383081,14a7c80dea7ffbcc8324fbea2ddc6a257f3844ead03e86ce982257fff6caf0a8
-static/media/img-8.fabdf94d.jpg,1613225383077,a96653771ac9fbf842f78ea6294dfd452e476daf3a0841501f1e9f79d446cf6d
+asset-manifest.json,1613234073613,f62b8eaf38a0efa23742abc8a9c7eb175d650612db39f234f8c6d849eb944574
+index.html,1613234073613,b4f96f4a7afb1927cfdae6e6d65de2f0e7a6b2d748177f0e77c6c5fe7bf791ab
+images/photos/On 1959, Lisbon decided to substitute the Rupee by the Escudo. Recto of a note of 1000 Escudos..jpg,1609048452831,643f516a484d44cca5846d190be362a54e24f4b096dc4e9244c37a5cc288794f
+static/css/main.ace1354a.chunk.css,1613234073586,63c9463285310fa2c238bceb0e1e26efaafe2a594254308714ed5e46fc815a46
+static/js/2.a130ac4b.chunk.js.LICENSE.txt,1613234073595,db5e990c63366acc28ee4d68a8b06cf6f262336190be423eb925127eea05a96c
+static/media/arrow_left.2b063d13.svg,1613234073595,c06ec1a7030ba22dba6f9c435a0944ffab3f021c309a0cb5d64ddac2334a372c
+static/media/arrow_right.0897f985.svg,1613234073595,4ae23b65d972fea40fae9e9d4e035c313a8399c377c81f9105736b994ea935d9
+static/js/runtime-main.5eec8c1b.js,1613234073595,80e1ae7336108b39c1ac861ba60acd6475c557d069ca2039ba6993de34518778
+static/js/runtime-main.5eec8c1b.js.map,1613234073613,b7a3578c3d14381ff4571a48b2a89e3c971e2e5a95fafd9028550e470417526f
+images/photos/On 1918, the BNU started issuing notes of Tangas..jpg,1609048501791,591b32395eb6aa919cb610e4654578c18db8aff33e9309407fc185c9f792e45b
 videos/video-1.mp4,1608633195311,4c67059cf305fc5bddb13cbff3fc542af2d43b0c892448b1d0421b86975af8b9
 videos/video-2.mp4,1608633195551,66558d639e6c8f6446523e6ad8193e41f13d419141e1f9ef2877ba7936eca122
 videos/video-3.mp4,1609255646744,c248863884fee15f1b1c4b8e450b70fde21a766ec4b6ce558a4a5c28e0e54e7f
-images/photos/On 1959, Lisbon decided to substitute the Rupee by the Escudo. Recto of a note of 1000 Escudos..jpg,1609048452831,643f516a484d44cca5846d190be362a54e24f4b096dc4e9244c37a5cc288794f
-images/photos/On 1918, the BNU started issuing notes of Tangas..jpg,1609048501791,591b32395eb6aa919cb610e4654578c18db8aff33e9309407fc185c9f792e45b
+static/css/main.ace1354a.chunk.css.map,1613234073595,8f5c09cd0c304552dcd3148c6bcfc54107996ace6e210a89418c1ab9cd4c0bd5
+static/media/fa-regular-400.1008b522.woff2,1613234073580,ccd0aca053735dd08559506ea3965ea707fad4706063497dbdf9891b86440841
+static/media/fa-regular-400.08f9891a.eot,1613234073576,8a084defdc17b92d74c400c91e73bb08f24884e078c00a469ad2864e0aac353f
+static/media/fa-regular-400.1069ea55.woff,1613234073580,e5ffe59334f86b0c6d8e2da33a3e0315eb0ed590548cff7b1385e76de26f0ce3
 images/photos/Portrait of Antônio César de Vasconcellos Correia, Governor general of the Estado da India (1858-1864)..jpg,1609054449209,bbc0458e13ec5b65345ff87d5c4aa22635bab5d2ace03b57fba04d20ffefee11
 images/photos/Portrait of Lopo Soares de Albergaria, the third Governor of Portuguese India (8.IX.1515 - 27.XII.1518).jpg,1609054483238,fcc9a81efc7c180c30870514c5bfb9c4757b8d61b163e2e64897142ec5bf3385
 images/photos/The building of the Banco Nacional Ultramarino in Nova Goa (Panjim); now, it hosts the State Bank of India..jpg,1609048465954,27586d68d128b4a9f65c5b84f5b0cf85a9edcb8807e355abb9b8c8dddba81227
@@ -422,19 +401,40 @@ images/photos/The flyleaf with, the filigree picture of the Adil Shah palace fak
 images/photos/Another view of the church. On the left, the former barracks..jpg,1609052589384,f01f07651b1e5a1e34bb7464f3ff46773a4ad0820eb50d32ae494783a10c3f9f
 images/photos/Bust of General José Paulo Bernard Guedes, Governor general of the Estado da India from 1952 to 1958..jpg,1609054462068,950af6502cc395e73e2ca8c8ee4426dcfdc127aec9d5fcc6da96c602ce8386e2
 images/photos/St Cayetano's statue, the founder of the Order of the Theatine fathers, which is venerated in the church of Our Lady of the Divine Providence.jpg,1609049972848,f147d3a37e8f78a0cfa31cc976e639fdbfd2ec2b125711841593bc77bb856435
+images/photos/Uma rua da capital ,Pangim ,barricada para defesa da população..jpg,1609854162279,e6841ee59b78aa31771235663f3d2c7e5800c7e7605c6fa75478f806481d499d
 images/photos/Dedication of the book by the author to his brother and law and friend Antonio Rogado, tribute of a lot of appreciation, consideration and friendship, Lisbon, on 5th of August, 1956..jpg,1609050282064,94f048dc73ad42ebd54d4936592957b9eba85150f951a62a2d2b1c73369cc05e
+static/media/fa-regular-400.06b9d19c.svg,1613234073581,cf6d1ee80e029edc9d4a9339d22f235298293413f3222380fbc4b145df131dd9
 images/photos/Arch of Our Lady of the Conception, one of the entrance gates of the old city of Goa, built on 1679.jpg,1609049789274,2896adc82cae1dfa03e33ed44859714b3f9dfbdb951857dcb2e800c055f8784a
 images/photos/More views of the barricades, probably close to the Government palace..jpg,1609050815393,d4764ac1f64b3e42b0f59344738dfadf5e6932c3a83a90d3d17cd33a966e328d
+images/photos/Sepulcher of the Menezes Braganza branch of the family, in front of the mansion..jpg,1609053057121,5af73ca4897eb3a6b9c53f971ff82e775c3135f79f93d6d04819ed67ac85595f
 images/photos/Nanuz fort, the last stronghold of the rebels..jpg,1609050786201,3ec43bbc201cfe58140366a3abdd8f5253f241d83f43413b321dc2604ac75507
 images/photos/St Catherine's chapel, built on 1510 by Afonso de Albuquerque and rebuilt on 1550 by Jorge Cabral.jpg,1609049770921,df9951ea116cce4e0d9e41b5e9f91b649955c0b5c9c0b0bd8465b86a186743a0
-images/photos/Sepulcher of the Menezes Braganza branch of the family, in front of the mansion..jpg,1609053057121,5af73ca4897eb3a6b9c53f971ff82e775c3135f79f93d6d04819ed67ac85595f
-images/photos/Uma rua da capital ,Pangim ,barricada para defesa da população..jpg,1609854162279,e6841ee59b78aa31771235663f3d2c7e5800c7e7605c6fa75478f806481d499d
+images/photos/The last debris of the St Augustin's church after its façade collapse on August 8th, 1931.jpg,1609049823959,30644e691e06a8bfd1b20f6bccc35d8adb64d356a53f7e57c38c0a850099f33a
+static/media/fa-regular-400.1495f578.ttf,1613234073582,0fbb7cc0f72f7c6dec898f82ee2e8a01ff98bd03eaa56f5fd6af45ff387bb2dc
+static/media/fa-brands-400.c967a94c.woff2,1613234073579,e6f25657b05e0e87e8c57c9378464f49668cda7f3a872cee6f28f91ed88ffd13
 images/photos/In front of the former Portuguese Governor's Palace, a statue of Vasco de Gama by the Portuguese sculptor Euclides Vaz. «Vasco da Gama spent 2 to 29 March 1498 in the vicinity of Mozambique Island..jpg,1609048629060,a9ace0c22211f2851a3b490a13b2e8af38286db343c300a9c28b9ac8a5778103
 images/photos/Not far from his (supposed) house, a statue of Luis de Camões facing the Indian Ocean..jpg,1609049559026,65ced690cb33a4fc200161ea874394703f91f28226d49d0972a63123b092a22d
-images/photos/The chapel in the Bom Jesus church where one can admire the St Francis Xavier's grave, the Apostle of East Indies and Japan.jpg,1609050087478,6a2103afdc118da2d95184038185a699234b5c30263d690d4d542ca2f431332a
 images/photos/St Francis Xavier's silver shrine, chased in Florence and encrusted with precious stone, lying on a beautiful marble mausoleum which bas-reliefs depict the Saint's life main actions.jpg,1609050049839,40c223bd24456c0e5c6bc8470835f90806d726bde4a084de1d55aa9bc662dd51
-images/photos/The great door of the fortress palace  N.B. In the book, the author doesn't mention this door as being a remain of Adil Shah's palace..jpg,1609049747880,a9df37bfe3a1bec6e18fa03033f8d98e84c6be6ce65bca5cea2948ca2f45daa8
-images/photos/Another dungeon jails known as Colonel Bailey's dungeon, one of the British officers who died there on 1782, two years before the arrival of Mangalorean Catholics prisoners..jpg,1609392065155,b63e411d71b865955b29644c87f5f887bfd08433a42735e493ba3d9ca18a2b95
+images/photos/The chapel in the Bom Jesus church where one can admire the St Francis Xavier's grave, the Apostle of East Indies and Japan.jpg,1609050087478,6a2103afdc118da2d95184038185a699234b5c30263d690d4d542ca2f431332a
 images/photos/The Water gate of Srirangapatam through which the British army stormed the city, killed Tipu Sultan and freed the remaining Mangalorean Catholics on 1799..jpg,1609053123313,b5a7fc78c15d80b30ebe177d55702ee73cd72c615ae264baa6850e9b6a2ea554
+images/photos/The great door of the fortress palace  N.B. In the book, the author doesn't mention this door as being a remain of Adil Shah's palace..jpg,1609049747880,a9df37bfe3a1bec6e18fa03033f8d98e84c6be6ce65bca5cea2948ca2f45daa8
 images/photos/The ruined façade of Our Lady of the Mount Carmel's church, built by the Discalced Carmelites monks on 1612.jpg,1609049812658,f23b54eb184a170f80b99b62e8feabb903e8a6e3e31d22e34d2c9f924299ba4c
-images/photos/The last debris of the St Augustin's church after its façade collapse on August 8th, 1931.jpg,1609049823959,30644e691e06a8bfd1b20f6bccc35d8adb64d356a53f7e57c38c0a850099f33a
+static/media/fa-brands-400.dc2cbadd.woff,1613234073580,6b1c1b4c1874680df6941b6717ea6b5bfe52ecd391f8827eb1b124395c32792f
+images/photos/Another dungeon jails known as Colonel Bailey's dungeon, one of the British officers who died there on 1782, two years before the arrival of Mangalorean Catholics prisoners..jpg,1609392065155,b63e411d71b865955b29644c87f5f887bfd08433a42735e493ba3d9ca18a2b95
+static/media/fa-brands-400.0fea2496.eot,1613234073579,392554bc6db05270bb85e548afdedd9c3aa52c240293e1f3048c3a93374ee993
+static/media/fa-brands-400.ec82f282.ttf,1613234073580,7edccc5716a57c35ec03d12ea806dc8c102b095d64cba5c41bd46368f60f29a6
+static/media/fa-solid-900.3ceb50e7.woff2,1613234073582,c3b69f059bddb662e9a2796e665bea15110893d2e692d6e8831cf87c900593dd
+static/js/main.c5b4e122.chunk.js,1613234073589,ac872373f26032af9d68d1c0573620fbd31887be474724b2035d3261e9507b93
+static/media/fa-solid-900.46fdbd2d.woff,1613234073583,97ae6546d753cc184adb96c6a21315f79e688414728ad58e85ccef8fd345536e
+static/js/main.c5b4e122.chunk.js.map,1613234073613,5dc1c6d876595aeb59aa8bce366a86476ea52114d93bb4d972d90dc0673ca48f
+static/css/2.73b7072a.chunk.css,1613234073595,4f46a560e3e6535b7f1d2a88726d4be870c54efd5011919d74b44fa02f272159
+static/media/fa-solid-900.10ecefc2.ttf,1613234073576,2a229c08d24904056d37a6cc574d8e4f7911e539c64f0340da4efca38a81e90f
+static/media/fa-solid-900.3a24a60e.eot,1613234073580,186cc82aced67a0b863363d699000f032262aea91ee384ca9bc67a7ffd7ee5ce
+static/media/img-8.fabdf94d.jpg,1613234073579,a96653771ac9fbf842f78ea6294dfd452e476daf3a0841501f1e9f79d446cf6d
+static/media/fa-brands-400.e33e2cf6.svg,1613234073584,32f7ee446abd6f21af42d158e81bcae84f4f3c18a5e12bba606878663b9110ca
+static/media/fa-solid-900.371dbce0.svg,1613234073586,7f6a2a1ba45b6cb62714c3746377f0fe0a8e30c876bec9e019dfdd0ca4f178d8
+static/media/img-5.7fadbe1b.jpg,1613234073580,14a7c80dea7ffbcc8324fbea2ddc6a257f3844ead03e86ce982257fff6caf0a8
+static/css/2.73b7072a.chunk.css.map,1613234073597,2acba29ce3b5c6fd14d088d1c3e57c150646fd00efc89ff2f85baf6a43a5fd90
+static/js/2.a130ac4b.chunk.js,1613234073597,331f4d4861de1ce4d254d0c2a63880358c6ac1db8505c6a2ef236ccba0c20b7d
+static/media/img-2.bb238fc1.jpg,1613234073583,efb7281a47016d2840bf62ab6d40ab9fa6ffb20764731c2f675f536f38efa5d7
+static/js/2.a130ac4b.chunk.js.map,1613234073614,76f79f7a5d75022331a339561160682e39932fade53d40f9bcd505c3837e3193
