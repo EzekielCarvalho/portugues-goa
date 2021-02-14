@@ -24,50 +24,7 @@
   font-size: 3rem;
 }
 
-.legacy {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
 
-.GoaWorld {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.GoaIndia {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.NewsArticles {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.PhotoGallery {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-2.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
 
 .history {
   padding-top: 1%;
@@ -87,32 +44,8 @@
   font-size: 3rem;
 }
 
-.aboutMe {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-5.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
 
-/* .contactMe {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-4.jpg');
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-} */
 
-.contact-me {
-  background-image: url('D:\Udemy courses\HTML5, CSS3, Jquery, Javascript\Projects\React project website\goa-porto-1\src\images\img-8.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
 
 @media only screen and (max-width: 1024px) /*this works */ {
   .history {
