@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './PhotoGallery.css';
-
+import images from './data';
 import { SRLWrapper } from 'simple-react-lightbox';
 import CardItem from './CardItem';
 import './Cards.css';
