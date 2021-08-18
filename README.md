@@ -50,8 +50,7 @@ $ npm audit fix
 
 # Then make the changes to the app as per your desire
 
-# You can view the complete running app     
-via the app deployed in Heroku
+# You can view the complete running app via the app deployed in Heroku
 
 ```
 
